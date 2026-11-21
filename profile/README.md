@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <b>Open AI models for Hong Kong Cantonese.</b><br />
-  香港廣東話開源 AI 模型：識聽口語、中英夾雜都冇問題。
+  <b>Speech and language models for Hong Kong Cantonese.</b><br />
+  香港廣東話語音同語言模型，有開源發佈，亦有用喺我哋產品嘅模型。
 </p>
 
 <p align="center">
