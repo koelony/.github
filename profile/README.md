@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://koelony.com">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/koelony/koelony/main/brand/logo-lockup-inverse.svg" />
-      <img src="https://raw.githubusercontent.com/koelony/koelony/main/brand/logo-lockup.svg" height="88" alt="Koelony" />
+      <source media="(prefers-color-scheme: dark)" srcset="logo-lockup-inverse.svg" />
+      <img src="logo-lockup.svg" height="88" alt="Koelony" />
     </picture>
   </a>
 </p>
