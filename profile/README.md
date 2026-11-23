@@ -16,7 +16,8 @@
   <a href="https://koelony.com">koelony.com</a> ·
   <a href="https://demo.koelony.com">Live demo</a> ·
   <a href="https://github.com/koelony/qwen3-asr-cantonese-hk">Qwen3-ASR Cantonese</a> ·
-  <a href="https://huggingface.co/joe2643/Qwen3-ASR-1.7B-Cantonese-HK">Hugging Face</a>
+  <a href="https://huggingface.co/koelony">Hugging Face</a> ·
+  <a href="https://www.linkedin.com/company/koelony">LinkedIn</a>
 </p>
 
 ---
@@ -30,8 +31,8 @@ Cantonese–English code-switching included.
 
 | Model                                  | What                                                                                          | Links                                                                                                                                                                                                                                                                                                                                                          |
 | -------------------------------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Qwen3-ASR 1.7B Cantonese HK** (v2.1) | Most accurate. FLEURS CER 3.89% (Whisper large-v3: 20.97%), hotword biasing with 0% parroting | [GitHub](https://github.com/koelony/qwen3-asr-cantonese-hk) · [BF16](https://huggingface.co/joe2643/Qwen3-ASR-1.7B-Cantonese-HK) · [GGUF](https://huggingface.co/joe2643/Qwen3-ASR-1.7B-Cantonese-HK-GGUF) · [FP8](https://huggingface.co/joe2643/Qwen3-ASR-1.7B-Cantonese-HK-FP8) · [NVFP4](https://huggingface.co/joe2643/Qwen3-ASR-1.7B-Cantonese-HK-NVFP4) |
-| **Qwen3-ASR 0.6B Cantonese HK**        | A third of the size, runs [in your browser](https://demo.koelony.com) on WebGPU               | [BF16](https://huggingface.co/joe2643/Qwen3-ASR-0.6B-Cantonese-HK) · [GGUF](https://huggingface.co/joe2643/Qwen3-ASR-0.6B-Cantonese-HK-GGUF)                                                                                                                                                                                                                   |
+| **Qwen3-ASR 1.7B Cantonese HK** (v2.1) | Most accurate. FLEURS CER 3.89% (Whisper large-v3: 20.97%), hotword biasing with 0% parroting | [GitHub](https://github.com/koelony/qwen3-asr-cantonese-hk) · [BF16](https://huggingface.co/koelony/Qwen3-ASR-1.7B-Cantonese-HK) · [GGUF](https://huggingface.co/koelony/Qwen3-ASR-1.7B-Cantonese-HK-GGUF) · [FP8](https://huggingface.co/koelony/Qwen3-ASR-1.7B-Cantonese-HK-FP8) · [NVFP4](https://huggingface.co/koelony/Qwen3-ASR-1.7B-Cantonese-HK-NVFP4) |
+| **Qwen3-ASR 0.6B Cantonese HK**        | A third of the size, runs [in your browser](https://demo.koelony.com) on WebGPU               | [BF16](https://huggingface.co/koelony/Qwen3-ASR-0.6B-Cantonese-HK) · [GGUF](https://huggingface.co/koelony/Qwen3-ASR-0.6B-Cantonese-HK-GGUF)                                                                                                                                                                                                                   |
 
 Used by [OraType](https://github.com/sennett-lau/oratype), free and open-source voice typing for macOS.
 
