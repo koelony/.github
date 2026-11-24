@@ -17,7 +17,8 @@
   <a href="https://demo.koelony.com">Live demo</a> ·
   <a href="https://github.com/koelony/qwen3-asr-cantonese-hk">Qwen3-ASR Cantonese</a> ·
   <a href="https://huggingface.co/koelony">Hugging Face</a> ·
-  <a href="https://www.linkedin.com/company/koelony">LinkedIn</a>
+  <a href="https://www.linkedin.com/company/koelony">LinkedIn</a> ·
+  <a href="https://www.threads.com/@koelony_hk">Threads</a>
 </p>
 
 ---
