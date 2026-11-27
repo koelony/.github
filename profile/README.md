@@ -35,8 +35,9 @@ Cantonese–English code-switching included.
 | **Qwen3-ASR 1.7B Cantonese HK** (v2.1) | Most accurate. FLEURS CER 3.89% (Whisper large-v3: 20.97%), hotword biasing with 0% parroting | [GitHub](https://github.com/koelony/qwen3-asr-cantonese-hk) · [BF16](https://huggingface.co/koelony/Qwen3-ASR-1.7B-Cantonese-HK) · [GGUF](https://huggingface.co/koelony/Qwen3-ASR-1.7B-Cantonese-HK-GGUF) · [FP8](https://huggingface.co/koelony/Qwen3-ASR-1.7B-Cantonese-HK-FP8) · [NVFP4](https://huggingface.co/koelony/Qwen3-ASR-1.7B-Cantonese-HK-NVFP4) |
 | **Qwen3-ASR 0.6B Cantonese HK**        | A third of the size, runs [in your browser](https://demo.koelony.com) on WebGPU               | [BF16](https://huggingface.co/koelony/Qwen3-ASR-0.6B-Cantonese-HK) · [GGUF](https://huggingface.co/koelony/Qwen3-ASR-0.6B-Cantonese-HK-GGUF)                                                                                                                                                                                                                   |
 
-Used by [OraType](https://github.com/sennett-lau/oratype), free and open-source voice typing for macOS. The GGUFs are
-also compatible with [transcribe.cpp](https://github.com/handy-computer/transcribe.cpp) / [Hex](https://github.com/anomalyco/hex) (macOS) via
+Used by [Munia](https://koelony.com/munia/), a free, open-source macOS dictation app with on-device transcription
+([source code](https://github.com/koelony/koeltype)). The GGUFs are also compatible with
+[transcribe.cpp](https://github.com/handy-computer/transcribe.cpp) / [Hex](https://github.com/anomalyco/hex) (macOS) via
 single-file builds in `transcribe-cpp/`.
 
 ### In the nest 孵緊
